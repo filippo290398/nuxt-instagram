@@ -1,0 +1,44 @@
+[
+  {
+    "name": "homes",
+    "path": "/homes",
+    "component": "C:\\\\xampp\\\\htdocs\\\\work\\\\nuxt\\\\nuxt-instagram\\\\pages\\\\homes\\\\index.vue",
+    "chunkName": "pages/homes/index",
+    "_name": "_840b0780"
+  },
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "C:\\\\xampp\\\\htdocs\\\\work\\\\nuxt\\\\nuxt-instagram\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_f8ba5662"
+  },
+  {
+    "name": "auth-register",
+    "path": "/auth/register",
+    "component": "C:\\\\xampp\\\\htdocs\\\\work\\\\nuxt\\\\nuxt-instagram\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_602bddad"
+  },
+  {
+    "name": "post-create",
+    "path": "/post/create",
+    "component": "C:\\\\xampp\\\\htdocs\\\\work\\\\nuxt\\\\nuxt-instagram\\\\pages\\\\post\\\\create.vue",
+    "chunkName": "pages/post/create",
+    "_name": "_15cd56fe"
+  },
+  {
+    "name": "account-username",
+    "path": "/account/:username?",
+    "component": "C:\\\\xampp\\\\htdocs\\\\work\\\\nuxt\\\\nuxt-instagram\\\\pages\\\\account\\\\_username.vue",
+    "chunkName": "pages/account/_username",
+    "_name": "_62f212ca"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\xampp\\\\htdocs\\\\work\\\\nuxt\\\\nuxt-instagram\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3510d740"
+  }
+]

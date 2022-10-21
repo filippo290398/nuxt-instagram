@@ -1,0 +1,11 @@
+{
+  "CommentItem": {
+    "description": "Auto imported from components/CommentItem.vue"
+  },
+  "PostsItem": {
+    "description": "Auto imported from components/PostsItem.vue"
+  },
+  "SideCardAccount": {
+    "description": "Auto imported from components/SideCardAccount.vue"
+  }
+}
